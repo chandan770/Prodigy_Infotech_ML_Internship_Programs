@@ -1,0 +1,5 @@
+torch
+torchvision
+Pillow
+safetensors
+huggingface_hub
